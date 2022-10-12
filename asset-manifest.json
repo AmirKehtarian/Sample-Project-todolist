@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sample-project-TODOLIST/static/css/main.5dda7597.css",
+    "main.js": "/sample-project-TODOLIST/static/js/main.6c6060e9.js",
+    "static/media/Motivation.pdf": "/sample-project-TODOLIST/static/media/Motivation.8834bc41574e5356438b.pdf",
+    "static/media/amir-3.jpg": "/sample-project-TODOLIST/static/media/amir-3.704ea6dd6dac9fcb16e6.jpg",
+    "static/media/Lebenslauf.pdf": "/sample-project-TODOLIST/static/media/Lebenslauf.f69ed6b8c85dc5624727.pdf",
+    "static/media/img-10.png": "/sample-project-TODOLIST/static/media/img-10.81dd0d76e4e203663730.png",
+    "static/media/img-4.png": "/sample-project-TODOLIST/static/media/img-4.13d69b9c65054030b16e.png",
+    "index.html": "/sample-project-TODOLIST/index.html",
+    "main.5dda7597.css.map": "/sample-project-TODOLIST/static/css/main.5dda7597.css.map",
+    "main.6c6060e9.js.map": "/sample-project-TODOLIST/static/js/main.6c6060e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dda7597.css",
+    "static/js/main.6c6060e9.js"
+  ]
+}
